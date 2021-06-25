@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "money.scale",
+      "type": "java.lang.String",
+      "description": "Description for money.scale."
+  }
+] }
